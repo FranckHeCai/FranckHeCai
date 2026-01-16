@@ -1,4 +1,4 @@
-# Franck Cai - Web Developer
+# Franck Cai - FullStack Developer
 
 Welcome to my portfolio! Here you can find information about me, the tools I use, and some of the projects I've worked on.
 
